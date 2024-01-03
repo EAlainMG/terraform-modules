@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/EAlainMG/terraform-modules/compare/v1.0.1...v1.0.2) (2024-01-03)
+
+
+### Bug Fixes
+
+* Rm custom conditionals, rm filter out on paths ignore ([f18a7df](https://github.com/EAlainMG/terraform-modules/commit/f18a7df3abd8bfe323553da22d6d8a901bf28b8e))
+
 ## [1.0.1](https://github.com/EAlainMG/terraform-modules/compare/v1.0.0...v1.0.1) (2023-12-26)
 
 
